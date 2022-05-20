@@ -1,15 +1,15 @@
-# Week - NULL
-```Hafta veya Ödev Sayısı (NULL değiştir)```
+# Week
+```Hafta 5```
 
 # Homework 
-```Ödev```
+```React 1```
 
 
 ## Homework Description
 
-```Ödev Açıklaması ```
+```Nesnelerden oluşan dizi elemanlarını belli kurallara göre gruplandırma. ```
 
 
 ## Author
 
-```Ödevi yapan```
+```Mehmet Ali Tunay```
